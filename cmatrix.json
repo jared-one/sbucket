@@ -6,5 +6,5 @@
     "url": "https://github.com/abishekvashok/cmatrix/archive/refs/tags/v2.0.tar.gz",
     "hash": "AD93BA39ACD383696AB6A9EBBED1259ECF2D3CF9F49D6B97038C66F80749E99A",
     "extract_dir": "cmatrix-2.0",
-    "bin": "C:\Users\Ndlovu.S\scoop-buckets\sbucket\cmatrix-2.0\cmatrix"
+    "bin": "cmatrix"
 }
